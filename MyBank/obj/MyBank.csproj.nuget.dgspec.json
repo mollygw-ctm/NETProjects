@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Molly.GallagherWickham/Projects/MyBank/MyBank.csproj": {}
+    "/Users/Molly.GallagherWickham/PersonalGithub/NETProjects/MyBank/MyBank.csproj": {}
   },
   "projects": {
-    "/Users/Molly.GallagherWickham/Projects/MyBank/MyBank.csproj": {
+    "/Users/Molly.GallagherWickham/PersonalGithub/NETProjects/MyBank/MyBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Molly.GallagherWickham/Projects/MyBank/MyBank.csproj",
+        "projectUniqueName": "/Users/Molly.GallagherWickham/PersonalGithub/NETProjects/MyBank/MyBank.csproj",
         "projectName": "MyBank",
-        "projectPath": "/Users/Molly.GallagherWickham/Projects/MyBank/MyBank.csproj",
+        "projectPath": "/Users/Molly.GallagherWickham/PersonalGithub/NETProjects/MyBank/MyBank.csproj",
         "packagesPath": "/Users/Molly.GallagherWickham/.nuget/packages/",
-        "outputPath": "/Users/Molly.GallagherWickham/Projects/MyBank/obj/",
+        "outputPath": "/Users/Molly.GallagherWickham/PersonalGithub/NETProjects/MyBank/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Molly.GallagherWickham/.nuget/NuGet/NuGet.Config"

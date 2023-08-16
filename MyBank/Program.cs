@@ -4,7 +4,7 @@ namespace MyBank
 {
     class Program
     {
-        static void Main(string[] args, object set)
+        static void Main(string[] args)
         {
 
             // creates new bank account with £1000 inside
@@ -19,7 +19,12 @@ namespace MyBank
 
             Console.WriteLine($"Welcome, {account.Owner}.");
 
-            account.Menu();
+            Console.WriteLine("What would you like to do?");
+            Console.WriteLine("1: Check your account balance");
+            Console.WriteLine("2: Make a deposit");
+            Console.WriteLine("3: Make a withdrawal");
+            Console.WriteLine("4: See your account history");
+            Console.WriteLine("5: Quit");
             var menuResponse = Console.ReadLine();
         // selects to view account balance
             if (menuResponse == "1")
@@ -63,7 +68,7 @@ namespace MyBank
 
             account.EndOfService();
             Console.WriteLine(".");
-            account.Menu();
+            // account.Menu();
 
             // write logic to get the if statement to run again
 
