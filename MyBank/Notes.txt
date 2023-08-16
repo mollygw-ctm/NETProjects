@@ -1,0 +1,5 @@
+﻿Things to do:
+
+- Manipulate constructor to allow ShowMenu to change from true to false
+- Consider writing some tests
+- Structure logic into answers provided by console

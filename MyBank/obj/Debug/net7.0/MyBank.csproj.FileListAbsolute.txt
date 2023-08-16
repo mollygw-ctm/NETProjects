@@ -1,0 +1,16 @@
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.csproj.AssemblyReference.cache
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.AssemblyInfoInputs.cache
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.AssemblyInfo.cs
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.csproj.CoreCompileInputs.cache
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/Program.cs
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/MyBank
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/MyBank.deps.json
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/MyBank.runtimeconfig.json
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/MyBank.dll
+/Users/Molly.GallagherWickham/Projects/MyBank/bin/Debug/net7.0/MyBank.pdb
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.dll
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/refint/MyBank.dll
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.pdb
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/MyBank.genruntimeconfig.cache
+/Users/Molly.GallagherWickham/Projects/MyBank/obj/Debug/net7.0/ref/MyBank.dll
